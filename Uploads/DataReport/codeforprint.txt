@@ -1,0 +1,1 @@
+ DataEnvironment1.Commands("InpatientMaintenanceMaster").Parameters(0) = frmAddMedicalTreatmentsIn.txtPatientID.Text

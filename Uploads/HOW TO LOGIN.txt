@@ -1,0 +1,13 @@
+Administrator (Full Rights)
+
+Username - OP004
+Password - admin
+
+
+
+
+
+Operator (With Restrictions)
+
+Username - OP001
+Password - operator

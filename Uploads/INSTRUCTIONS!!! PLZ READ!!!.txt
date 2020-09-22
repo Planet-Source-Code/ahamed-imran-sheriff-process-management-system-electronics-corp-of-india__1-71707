@@ -1,0 +1,11 @@
+To run the application, you will need to install SQL Server Management Studio Express.
+
+You can download this software for free off the internet. Just type the name of the software 
+in Google, and click on the first link on the search returns list. The software is available for free download on that website.
+
+You will then need to attach the database files I have provided. If you don't know how this is to be done, please look for a tutorial on the internet. A little bit of googling will help :)
+
+Once you have attached the database, you should find no problems at all in running the application.
+
+
+Good Luck!!! And Please Vote Friend!!!
